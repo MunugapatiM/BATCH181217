@@ -15,6 +15,6 @@ class Counter {
     total = other.total
 
     // ERROR, object-private member from other instance is not accessible
-    lastAdded = other.lastAdded
+//    lastAdded = other.lastAdded
   }
 }

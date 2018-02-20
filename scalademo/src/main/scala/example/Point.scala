@@ -1,6 +1,6 @@
 package example
 
-object Point {
+class Point {
   private var _x = 0
   private var _y = 0
   private val bound = 100
