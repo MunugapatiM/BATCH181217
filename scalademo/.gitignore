@@ -1,0 +1,12 @@
+/bin/
+*/target/*
+.cache*
+.history
+org.eclipse.*
+*$*
+*.xml
+*/classes/*
+*.class
+*.jar
+ivy*
+.settings
